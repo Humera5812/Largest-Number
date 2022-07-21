@@ -1,0 +1,15 @@
+C:\Users\Humera\source\repos\LaregestNumber\LaregestNumber\bin\Debug\net6.0\LaregestNumber.exe
+C:\Users\Humera\source\repos\LaregestNumber\LaregestNumber\bin\Debug\net6.0\LaregestNumber.deps.json
+C:\Users\Humera\source\repos\LaregestNumber\LaregestNumber\bin\Debug\net6.0\LaregestNumber.runtimeconfig.json
+C:\Users\Humera\source\repos\LaregestNumber\LaregestNumber\bin\Debug\net6.0\LaregestNumber.dll
+C:\Users\Humera\source\repos\LaregestNumber\LaregestNumber\bin\Debug\net6.0\LaregestNumber.pdb
+C:\Users\Humera\source\repos\LaregestNumber\LaregestNumber\obj\Debug\net6.0\LaregestNumber.csproj.AssemblyReference.cache
+C:\Users\Humera\source\repos\LaregestNumber\LaregestNumber\obj\Debug\net6.0\LaregestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Humera\source\repos\LaregestNumber\LaregestNumber\obj\Debug\net6.0\LaregestNumber.AssemblyInfoInputs.cache
+C:\Users\Humera\source\repos\LaregestNumber\LaregestNumber\obj\Debug\net6.0\LaregestNumber.AssemblyInfo.cs
+C:\Users\Humera\source\repos\LaregestNumber\LaregestNumber\obj\Debug\net6.0\LaregestNumber.csproj.CoreCompileInputs.cache
+C:\Users\Humera\source\repos\LaregestNumber\LaregestNumber\obj\Debug\net6.0\LaregestNumber.dll
+C:\Users\Humera\source\repos\LaregestNumber\LaregestNumber\obj\Debug\net6.0\refint\LaregestNumber.dll
+C:\Users\Humera\source\repos\LaregestNumber\LaregestNumber\obj\Debug\net6.0\LaregestNumber.pdb
+C:\Users\Humera\source\repos\LaregestNumber\LaregestNumber\obj\Debug\net6.0\LaregestNumber.genruntimeconfig.cache
+C:\Users\Humera\source\repos\LaregestNumber\LaregestNumber\obj\Debug\net6.0\ref\LaregestNumber.dll
